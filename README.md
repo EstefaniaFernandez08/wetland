@@ -3,7 +3,6 @@
 To set up the virtual environment for this project:
 
 1. Navigate to the project directory:
-```terminal
    cd path_to_the_wetlands_repository
 
 2. Create virtual environment
@@ -21,6 +20,4 @@ To set up the virtual environment for this project:
 ### Deactivating the Virtual Environment
 
 Once you're finished working in the virtual environment, deactivate it by running:
-
-```terminal
-deactivate
+    deactivate
