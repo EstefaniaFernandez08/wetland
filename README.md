@@ -17,6 +17,9 @@ pip install -r requirements.txt
 5. Update requirements.txt </br>
 pip freeze > requirements.txt
 
+6. Remove the existing venv directory</b>
+rm -rf venv
+
 ### Deactivating the Virtual Environment
 
 Once you're finished working in the virtual environment, deactivate it by running:</br>
