@@ -20,6 +20,10 @@ pip freeze > requirements.txt
 6. Remove the existing venv directory</b>
 rm -rf venv
 
+•	rm: This command stands for “remove.” It is used to delete files and directories in Unix-based systems like macOS and Linux.
+•	-r: This flag stands for “recursive.” It tells the rm command to delete directories and their contents, including all files and subdirectories inside.
+•	-f: This flag stands for “force.” It tells the rm command to remove files without prompting for confirmation, even if the files are write-protected.
+
 ### Deactivating the Virtual Environment
 
 Once you're finished working in the virtual environment, deactivate it by running:</br>
