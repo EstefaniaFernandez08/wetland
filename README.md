@@ -19,7 +19,7 @@ To set up the virtual environment for this project:
     - -f: This flag stands for “force.” It tells the rm command to remove files without prompting for confirmation, even if the files are write-protected.</br>
 
 7. **Deactivate the virtual environment.**
-deactivate
+```deactivate```
 ______________________________________________________________________________________________________
 
 ### Documenting nbconvert export commands
